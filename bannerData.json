@@ -1,127 +1,6 @@
-[
-  {
-    "content_datas": [
-      {
-        "id": "1",
-        "data": "E"
-      },
-      {
-        "id": "2",
-        "data": "A"
-      },
-      {
-        "id": "3",
-        "data": "T"
-      },
-      {
-        "id": "4",
-        "data": "L"
-      },
-      {
-        "id": "5",
-        "data": "M"
-      },
-      {
-        "id": "6",
-        "data": "N"
-      }
-    ],
-    "question": "amen22",
-    "answer_count": "2516",
-    "answer": "Amen",
-    "letter_count": "4",
-    "flag": "3"
-  },
-  {
-    "content_datas": [
-      {
-        "id": "1",
-        "data": "E"
-      },
-      {
-        "id": "2",
-        "data": "B"
-      },
-      {
-        "id": "3",
-        "data": "T"
-      },
-      {
-        "id": "4",
-        "data": "A"
-      },
-      {
-        "id": "5",
-        "data": "M"
-      },
-      {
-        "id": "6",
-        "data": "S"
-      },
-      {
-        "id": "10",
-        "data": "O"
-      },
-      {
-        "id": "8",
-        "data": "T"
-      },
-      {
-        "id": "9",
-        "data": "C"
-      },
-      {
-        "id": "7",
-        "data": "R"
-      }
-    ],
-    "question": "bestactor22",
-    "answer_count": "2163498107",
-    "answer": "Best Actor",
-    "letter_count": "9",
-    "flag": "3"
-  },
-  {
-    "content_datas": [
-      {
-        "id": "1",
-        "data": "I"
-      },
-      {
-        "id": "2",
-        "data": "H"
-      },
-      {
-        "id": "3",
-        "data": "T"
-      },
-      {
-        "id": "4",
-        "data": "C"
-      },
-      {
-        "id": "5",
-        "data": "R"
-      },
-      {
-        "id": "6",
-        "data": "A"
-      },
-      {
-        "id": "7",
-        "data": "E"
-      },
-      {
-        "id": "8",
-        "data": "L"
-      }
-    ],
-    "question": "charli",
-    "answer_count": "4265817",
-    "answer": "Charlie",
-    "letter_count": "7",
-    "flag": "3"
-  },
+    
+{"status":"Success",
+"data":[
   {
     "content_datas": [
       {
@@ -153,22 +32,26 @@
         "data": "മ"
       },
       {
+        "id": "10",
+        "data": "ബ്"
+      },
+      {
         "id": "8",
         "data": "ട്സ്"
       },
       {
-        "id": "8",
+        "id": "9",
         "data": "ക്ല"
       },
       {
-        "id": "9",
-        "data": "ബ്"
+        "id": "11",
+        "data": "ർ"
       }
     ],
     "question": "image1",
-    "answer_count": "754123889",
+    "answer_count": ["754123118910","751112348910"],
     "answer": "മലർവാടി ആർട്സ് ക്ലബ്",
-    "letter_count": "9",
+    "letter_count": "10",
     "flag": "0"
   },
   {
@@ -199,7 +82,7 @@
       }
     ],
     "question": "image2",
-    "answer_count": "534612",
+    "answer_count": ["534612"],
     "answer": "ക്രേസി ഗോപാലൻ",
     "letter_count": "6",
     "flag": "0"
@@ -232,7 +115,7 @@
       }
     ],
     "question": "image3",
-    "answer_count": "254",
+    "answer_count": ["254"],
     "answer": "ട്വന്റി20",
     "letter_count": "3",
     "flag": "0"
@@ -261,7 +144,7 @@
       }
     ],
     "question": "image4",
-    "answer_count": "3521",
+    "answer_count": ["3521"],
     "answer": "ലോലിപോപ്",
     "letter_count": "4",
     "flag": "0"
@@ -294,7 +177,7 @@
       }
     ],
     "question": "image5",
-    "answer_count": "163",
+    "answer_count": ["163","361"],
     "answer": "ബിഗ് ബി",
     "letter_count": "3",
     "flag": "0"
@@ -327,7 +210,7 @@
       }
     ],
     "question": "image6",
-    "answer_count": "145236",
+    "answer_count": ["145236"],
     "answer": "ഒരു നാൾ വരും",
     "letter_count": "6",
     "flag": "0"
@@ -368,9 +251,9 @@
       }
     ],
     "question": "image7",
-    "answer_count": "46538271",
+    "answer_count": ["46538271","71538246","41538276","76538241"],
     "answer": "ഇൻ ഗോസ്റ് ഹൗസ് ഇൻ",
-    "letter_count": "9",
+    "letter_count": "8",
     "flag": "0"
   },
   {
@@ -401,7 +284,7 @@
       }
     ],
     "question": "image8",
-    "answer_count": "216534",
+    "answer_count": ["216534"],
     "answer": "എയ്‌ഞ്ചൽ ജോൺ",
     "letter_count": "6",
     "flag": "0"
@@ -434,7 +317,7 @@
       }
     ],
     "question": "image9",
-    "answer_count": "36512",
+    "answer_count": ["36512"],
     "answer": "പോക്കിരി രാജ ",
     "letter_count": "6",
     "flag": "0"
@@ -475,7 +358,7 @@
       }
     ],
     "question": "image11",
-    "answer_count": "251734",
+    "answer_count": ["251734"],
     "answer": "ആറാം തമ്പുരാൻ ",
     "letter_count": "6",
     "flag": "0"
@@ -512,7 +395,7 @@
       }
     ],
     "question": "image12",
-    "answer_count": "8524",
+    "answer_count": ["8524"],
     "answer": "ക്ലാസ് മേറ്റ്സ് ",
     "letter_count": "4",
     "flag": "0"
@@ -557,7 +440,7 @@
       }
     ],
     "question": "image13",
-    "answer_count": "216873459",
+    "answer_count": ["216873459","276813459","256873419","216853479","216873459","213876459","219873456","2138794596"],
     "answer": "അക്കരെയക്കരെയക്കരെ",
     "letter_count": "9",
     "flag": "0"
@@ -590,7 +473,7 @@
       }
     ],
     "question": "image14",
-    "answer_count": "483",
+    "answer_count": ["483"],
     "answer": "ആമേൻ",
     "letter_count": "4",
     "flag": "0"
@@ -627,7 +510,7 @@
       }
     ],
     "question": "image15",
-    "answer_count": "719",
+    "answer_count": ["719"],
     "answer": "7ത് ഡേ",
     "letter_count": "3",
     "flag": "0"
@@ -680,7 +563,7 @@
       }
     ],
     "question": "image16",
-    "answer_count": "5310429861711",
+    "answer_count": ["5310429861711","5310129864711","5710429861311","5710129864311"],
     "letter_count": "11",
     "answer": "അയാൾ കഥ എഴുതുകയാണ് ",
     "flag": "0"
@@ -713,7 +596,7 @@
       }
     ],
     "question": "image17",
-    "answer_count": "46132",
+    "answer_count": ["46132"],
     "answer": "ബോഡി ഗാർഡ് ",
     "letter_count": "6",
     "flag": "0"
@@ -754,7 +637,7 @@
       }
     ],
     "question": "image18",
-    "answer_count": "58231",
+    "answer_count": ["58231"],
     "answer": "ചാപ്പാ കുരിശ് ",
     "letter_count": "5",
     "flag": "0"
@@ -787,7 +670,7 @@
       }
     ],
     "question": "image19",
-    "answer_count": "64125",
+    "answer_count": ["64125"],
     "answer": "CID മൂസ",
     "letter_count": "5",
     "flag": "0"
@@ -832,7 +715,7 @@
       }
     ],
     "question": "image20",
-    "answer_count": "142387569",
+    "answer_count": ["142387569"],
     "answer": "ഡയമണ്ട് നെക്‌ലെയ്‌സ്",
     "letter_count": "9",
     "flag": "0"
@@ -873,9 +756,11 @@
       }
     ],
     "question": "image21",
-    "answer_count": "9172384",
+    "answer_count": ["9172384"],
     "answer": "ഹരി കൃഷ്‌ണൻസ് ",
     "letter_count": "7",
     "flag": "0"
   }
-]
+],
+"code":"100"
+}
