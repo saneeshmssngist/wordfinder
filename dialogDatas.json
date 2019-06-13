@@ -419,68 +419,7 @@
       "answer": "Kabooliwala",
       "letter_count": "11",
       "flag": "3"
-    },
-    {
-      "content_datas": [
-        {
-          "id": "1",
-          "data": "E"
-        },
-        {
-          "id": "2",
-          "data": "H"
-        },
-        {
-          "id": "3",
-          "data": "D"
-        },
-        {
-          "id": "4",
-          "data": "A"
-        },
-        {
-          "id": "5",
-          "data": "A"
-        },
-        {
-          "id": "6",
-          "data": "V"
-        },
-        {
-          "id": "7",
-          "data": "N"
-        },
-        {
-          "id": "8",
-          "data": "A"
-        },
-        {
-          "id": "9",
-          "data": "M"
-        },
-        {
-          "id": "10",
-          "data": "E"
-        },
-        {
-          "id": "11",
-          "data": "A"
-        },
-        {
-          "id": "12",
-          "data": "S"
-        },
-        {
-          "id": "13",
-          "data": "M"
-        }
-      ],
-      "question": "https://docs.google.com/uc?id=1fc0djzupjeQ9VsCs0QukfH1JsrjaHc9B",
-      "answer_count": [],
-      "answer": "Meesa Madhavan",
-      "letter_count": "13",
-      "flag": "3"
-    },
+    }
     {
       "content_datas": [
         {
