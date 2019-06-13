@@ -134,67 +134,6 @@
       "content_datas": [
         {
           "id": "1",
-          "data": "I"
-        },
-        {
-          "id": "2",
-          "data": "N"
-        },
-        {
-          "id": "3",
-          "data": "Y"
-        },
-        {
-          "id": "4",
-          "data": "A"
-        },
-        {
-          "id": "5",
-          "data": "I"
-        },
-        {
-          "id": "6",
-          "data": "A"
-        },
-        {
-          "id": "7",
-          "data": "H"
-        },
-        {
-          "id": "8",
-          "data": "T"
-        },
-        {
-          "id": "9",
-          "data": "P"
-        },
-        {
-          "id": "10",
-          "data": "A"
-        },
-        {
-          "id": "11",
-          "data": "V"
-        },
-        {
-          "id": "12",
-          "data": "U"
-        },
-        {
-          "id": "13",
-          "data": "R"
-        }
-      ],
-      "question": "https://docs.google.com/uc?id=1faIk37kQqLsBczK2S526EQWOwp2Q_W03",
-      "answer_count": [],
-      "answer": "Aniyathipravu",
-      "letter_count": "13",
-      "flag": "3"
-    },
-    {
-      "content_datas": [
-        {
-          "id": "1",
           "data": "N"
         },
         {
@@ -305,7 +244,7 @@
         },
         {
           "id": "9",
-          "data": "A"
+          "data": "O"
         },
         {
           "id": "10",
