@@ -24,10 +24,6 @@
         "data": "ല"
       },
       {
-        "id": "6",
-        "data": "യം"
-      },
-      {
         "id": "7",
         "data": "മ"
       },
@@ -89,29 +85,18 @@
   },
   {
     "content_datas": [
-      {
-        "id": "1",
-        "data": "ല"
-      },
-      {
-        "id": "2",
-        "data": "ട്വ"
-      },
-      {
-        "id": "3",
-        "data": "മ"
-      },
+        
       {
         "id": "4",
         "data": "20"
       },
+   {
+        "id": "2",
+        "data": "ട്വ"
+      },
       {
         "id": "5",
         "data": "ന്റി"
-      },
-      {
-        "id": "6",
-        "data": "പാ"
       }
     ],
     "question": "https://docs.google.com/uc?id=1LtRC_Gl6PNVAh--yHkTzjPuX5DbTWyW0",
@@ -125,10 +110,6 @@
       {
         "id": "1",
         "data": "പ്"
-      },
-      {
-        "id": "2",
-        "data": "പോ"
       },
       {
         "id": "3",
@@ -156,20 +137,8 @@
         "data": "ബി"
       },
       {
-        "id": "2",
-        "data": "ന്റെ"
-      },
-      {
         "id": "3",
         "data": "ബി"
-      },
-      {
-        "id": "4",
-        "data": "രി"
-      },
-      {
-        "id": "5",
-        "data": "ക്കി"
       },
       {
         "id": "6",
@@ -303,10 +272,7 @@
         "id": "3",
         "data": "പോ"
       },
-      {
-        "id": "4",
-        "data": "രു"
-      },
+     
       {
         "id": "5",
         "data": "രി"
@@ -319,7 +285,7 @@
     "question": "https://docs.google.com/uc?id=1BUqYgrk9jEXauH1-w37anyZeyah90h9q",
     "answer_count": ["36512"],
     "answer": "പോക്കിരി രാജ ",
-    "letter_count": "6",
+    "letter_count": "5",
     "flag": "0"
   },
   {
