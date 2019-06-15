@@ -306,18 +306,12 @@
         "id": "4",
         "data": "ൻ"
       },
-      {
-        "id": "8",
-        "data": "രു"
-      },
+     
       {
         "id": "5",
         "data": "റാം"
       },
-      {
-        "id": "6",
-        "data": "ക്കി"
-      },
+     
       {
         "id": "7",
         "data": "മ്പു"
@@ -335,10 +329,7 @@
         "id": "2",
         "data": "മേ"
       },
-      {
-        "id": "3",
-        "data": "സ്റ്"
-      },
+      
       {
         "id": "4",
         "data": "റ്റ്സ്"
@@ -347,14 +338,7 @@
         "id": "5",
         "data": "സ്"
       },
-      {
-        "id": "6",
-        "data": "ൻ"
-      },
-      {
-        "id": "7",
-        "data": "ഇ"
-      },
+     
       {
         "id": "8",
         "data": "ക്ലാ"
@@ -414,10 +398,6 @@
   {
     "content_datas": [
       {
-        "id": "1",
-        "data": "മേ"
-      },
-      {
         "id": "3",
         "data": "ൻ"
       },
@@ -425,14 +405,7 @@
         "id": "4",
         "data": "ആ"
       },
-      {
-        "id": "5",
-        "data": "സ്"
-      },
-      {
-        "id": "6",
-        "data": "ൻ"
-      },
+     
       {
         "id": "8",
         "data": "മേ"
@@ -441,7 +414,7 @@
     "question": "https://docs.google.com/uc?id=1kiy6dCsrqvtHFlemAyUtcAas9SVspHd5",
     "answer_count": ["483"],
     "answer": "ആമേൻ",
-    "letter_count": "4",
+    "letter_count": "3",
     "flag": "0"
   },
   {
