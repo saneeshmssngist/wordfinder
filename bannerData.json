@@ -465,10 +465,6 @@
         "data": "ബോ"
       },
       {
-        "id": "5",
-        "data": "ന്റി"
-      },
-      {
         "id": "6",
         "data": "ഡി"
       }
@@ -476,7 +472,7 @@
     "question": "https://docs.google.com/uc?id=1N10JcTESx8OtgLmoDOPgxKg-fbj80Luw",
     "answer_count": ["46132"],
     "answer": "ബോഡി ഗാർഡ് ",
-    "letter_count": "6",
+    "letter_count": "5",
     "flag": "0"
   },
   {
